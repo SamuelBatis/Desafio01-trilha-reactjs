@@ -1,4 +1,4 @@
-# Primeiro Desafio da trilha de ReactJS do Ignite
+# Desafio 1 da trilha de ReactJS do Ignite
 <p>
   <img src="/toReadme/ezgif.com-gif-maker (1).gif"/>
 </p>
